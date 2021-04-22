@@ -1,0 +1,165 @@
+body{
+	background-color: #eeebdd;
+}
+h1{
+	font-family: Tiza;
+	font-size: 60px;
+}
+h3{
+	font-family: Please write me a song;
+	font-size: 50px;
+	color: #8c0000;
+}
+#general{
+	background-color: #f4eee8;
+	width: 1200px;
+	height: 4800px;
+	margin: auto;
+}
+#titulo{
+	background: #ce1212;
+	height: 150px;
+	color:white;
+	font-size: 30px;
+	line-height: 50px;
+}
+#sinopsis{
+	width: 800px;
+	position: absolute;
+	top:170px;
+	left:400px;
+	font-size: 25px;
+}
+#portadalibro{
+	height: 400px;
+	position: relative;
+	left: 30px;
+	top: 20px;
+}
+#PaulSheldon{
+	width: 29.2%;
+	height: 90%;
+	margin:.8em;
+	background-color: #f05454;
+	float: left;
+	border-radius:1em;
+	font-size: 25px;
+}
+#AnnieWilkes{
+	width: 29.2%;
+	height: 90%;
+	margin: 1em;
+	background-color: #f05454;
+	float: left;
+	border-radius:1em;
+	font-size: 25px;
+}
+#Guardia{
+	width: 29.2%;
+	height: 90%;
+	margin: 1em;
+	background-color: #f05454;
+	float: left;
+	border-radius:1em;
+	font-size: 25px;
+}
+#impresiones{
+	font-size: 25px;
+	margin: auto;
+}
+
+img:nth-child(1){
+	height: 320px;
+	width: 350px;
+}
+#paginas{
+	font-size: 25px;
+}
+#pag1{
+	width: 570px;
+	float: left;
+	margin: 1em;
+	height: 978.02px;
+	position: relative;
+	left: 300px;
+}
+#pag2{
+	width: 570px;
+	margin: 1em;
+	height: 981.95px;
+}
+#pag3{
+	width: 570px;
+	margin: 1em;
+	height: 613.09px;
+}
+#desapejec{
+	height: 200px;
+	float: left;
+	margin: 1em;
+}
+#cetis62{
+	height: 250px;
+	float: left;
+	margin: 1em;
+}
+#nao{
+	float: left;
+	height: 320px;
+	width: 240px;
+	margin: 1em;
+}
+#principal{
+	height: 1500px;
+	background-color: #f4eee8;
+	width: 1200px;
+	margin: auto;
+}
+#img{
+	margin:auto;
+	width:900px;
+	height:px;
+}
+#cont{
+	margin:1em;
+	position: absolute;
+	top: 600px;
+	width: 1200px;
+	height:1150px;
+}
+a{
+	font-family: Please write me a song;
+	font-size: 30px;
+	text-decoration:none;
+	margin:10px 30px;
+	display:inline-block;
+	background: #f05454;
+	color:#FFF;
+	padding: 20px 20px;
+	box-shadow: 0px 2px 0px #810000;
+}
+a:hover {
+	box-shadow: 0px 4px 0px #630000;
+	color: #000;
+	background:#ce1212;
+}
+a:active {
+	box-shadow:none;
+}
+.menu {
+  width:100%;
+  background:#424242;
+  list-style:none;
+  margin:0px;
+  padding:0px;
+  text-align: center;
+}
+.menu li {
+	display:inline-block;
+}
+#boton{
+	height: 200px;
+	position: absolute;
+	right: 20px;
+	top: 20px;
+}
